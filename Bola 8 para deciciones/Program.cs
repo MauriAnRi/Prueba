@@ -43,7 +43,7 @@ namespace Bola_8_para_deciciones
                 }
                 Thread.Sleep(100);
                 Console.WriteLine(showtime);
-                cont=cont+1;
+                cont++;
             }
             Console.ReadKey();
         }
