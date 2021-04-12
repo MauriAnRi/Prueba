@@ -1,0 +1,14 @@
+C:\Users\Mauricio\source\repos\Bola 8 para deciciones\Bola 8 para deciciones\obj\Debug\Bola 8 para deciciones.csprojAssemblyReference.cache
+C:\Users\Mauricio\source\repos\Bola 8 para deciciones\Bola 8 para deciciones\obj\Debug\Bola 8 para deciciones.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\Bola 8 para deciciones\Bola 8 para deciciones\bin\Debug\Bola 8 para deciciones.exe.config
+C:\Users\Mauricio\source\repos\Bola 8 para deciciones\Bola 8 para deciciones\bin\Debug\Bola 8 para deciciones.exe
+C:\Users\Mauricio\source\repos\Bola 8 para deciciones\Bola 8 para deciciones\bin\Debug\Bola 8 para deciciones.pdb
+C:\Users\Mauricio\source\repos\Bola 8 para deciciones\Bola 8 para deciciones\obj\Debug\Bola 8 para deciciones.exe
+C:\Users\Mauricio\source\repos\Bola 8 para deciciones\Bola 8 para deciciones\obj\Debug\Bola 8 para deciciones.pdb
+C:\Users\Mauricio\Desktop\XD\Bola-8-para-decisiones\Bola 8 para deciciones\bin\Debug\Bola 8 para deciciones.exe.config
+C:\Users\Mauricio\Desktop\XD\Bola-8-para-decisiones\Bola 8 para deciciones\bin\Debug\Bola 8 para deciciones.exe
+C:\Users\Mauricio\Desktop\XD\Bola-8-para-decisiones\Bola 8 para deciciones\bin\Debug\Bola 8 para deciciones.pdb
+C:\Users\Mauricio\Desktop\XD\Bola-8-para-decisiones\Bola 8 para deciciones\obj\Debug\Bola 8 para deciciones.csprojAssemblyReference.cache
+C:\Users\Mauricio\Desktop\XD\Bola-8-para-decisiones\Bola 8 para deciciones\obj\Debug\Bola 8 para deciciones.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\XD\Bola-8-para-decisiones\Bola 8 para deciciones\obj\Debug\Bola 8 para deciciones.exe
+C:\Users\Mauricio\Desktop\XD\Bola-8-para-decisiones\Bola 8 para deciciones\obj\Debug\Bola 8 para deciciones.pdb
